@@ -1,3 +1,6 @@
+# Note: these settings inherit all settings found in the defaults.yml file.
+# See all those base settings here: https://github.com/yarnjs/yarn/blob/master/lib/config/defaults.yml
+
 # Site settings
 site:
   title: A Yarn Site
