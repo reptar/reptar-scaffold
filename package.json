@@ -10,7 +10,7 @@
     "url": "git://github.com/yarnjs/yarn-scaffold.git"
   },
   "dependencies": {
-    "yarn-excerpt": "^0.6.0",
+    "yarn-excerpt": "^0.7.0",
     "yarn-html-minifier": "^0.6.0",
     "yarn-theme-thread": "^0.3.0"
   }
