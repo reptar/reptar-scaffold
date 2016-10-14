@@ -1,3 +1,3 @@
-# yarn-scaffold
+# reptar-scaffold
 
-scaffold for a new yarn site.
+deprecated. use [reptar init](http://github.com/reptar/reptar)
